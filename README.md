@@ -1,2 +1,2 @@
 # GitTest
-Git测试
+Git复制到IDEA上的测试
